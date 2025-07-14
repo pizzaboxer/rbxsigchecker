@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35017.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RbxSigChecker", "RbxSigChecker\RbxSigChecker.csproj", "{A46DA96A-A838-45E6-B036-0EB112DCFBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46DA96A-A838-45E6-B036-0EB112DCFBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46DA96A-A838-45E6-B036-0EB112DCFBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46DA96A-A838-45E6-B036-0EB112DCFBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46DA96A-A838-45E6-B036-0EB112DCFBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EF69AFD-013F-4694-BE79-766CC7D5A052}
+	EndGlobalSection
+EndGlobal

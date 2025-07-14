@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RbxSigChecker": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\test.lua"
+    }
+  }
+}
